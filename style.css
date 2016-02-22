@@ -1,0 +1,17 @@
+h1 {
+transform: rotate(355deg);
+font-family: ALoveofThunder;
+font-size: 48px;
+color: #FFFFFF;
+line-height: 69px;
+text-shadow: -2px -2px 0px #1A6FAF;
+}
+
+h2 {
+font-family: ALoveofThunder;
+font-size: 30px;
+color: #191919;
+letter-spacing: 1px;
+line-height: 39px;
+text-shadow: -2px 3px 0px #FFFFFF;
+}
